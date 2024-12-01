@@ -1,6 +1,7 @@
 "use client";
 import Input from "@/components/UI/Input";
 import { socket } from "@/socket";
+import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { useState, useEffect } from "react";
 
