@@ -48,7 +48,7 @@ export default function Page() {
             alt="bird"
             width={175}
             height={175}
-            className={`absolute left-10 top-[300px]`}
+            className={`absolute left-10 top-[300px] select-none`}
           />
         ))}
       </div>
